@@ -11,4 +11,6 @@ Le fichier PS1 est le code source brut.
 
 
 
-Pensez à ajouter l'outil Mimikatz dans le répertoire courant pour utiliser le script ;)
+Pensez à ajouter l'outil Mimikatz dans le répertoire courant pour utiliser le script :
+
+https://github.com/gentilkiwi/mimikatz/releases
